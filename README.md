@@ -1,4 +1,4 @@
-<center>
+<div align="center"> 
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=70&color=timeGradient&text=K-Sub&fontAlign=20&descAlign=64&section=footer&reversal=false&fontSize=32&fontAlignY=57&strokeWidth=0)
 <br/>
@@ -49,4 +49,4 @@ It's secret ;)
 
 </td></tr></table> 
 
-</center>
+</div>
